@@ -1,0 +1,15 @@
+c:\Users\albin.forsberg1\Documents\Programering\BashAMonster\Bash\bin\Debug\net6.0\Bash.exe
+c:\Users\albin.forsberg1\Documents\Programering\BashAMonster\Bash\bin\Debug\net6.0\Bash.deps.json
+c:\Users\albin.forsberg1\Documents\Programering\BashAMonster\Bash\bin\Debug\net6.0\Bash.runtimeconfig.json
+c:\Users\albin.forsberg1\Documents\Programering\BashAMonster\Bash\bin\Debug\net6.0\Bash.dll
+c:\Users\albin.forsberg1\Documents\Programering\BashAMonster\Bash\bin\Debug\net6.0\Bash.pdb
+c:\Users\albin.forsberg1\Documents\Programering\BashAMonster\Bash\obj\Debug\net6.0\Bash.csproj.AssemblyReference.cache
+c:\Users\albin.forsberg1\Documents\Programering\BashAMonster\Bash\obj\Debug\net6.0\Bash.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\albin.forsberg1\Documents\Programering\BashAMonster\Bash\obj\Debug\net6.0\Bash.AssemblyInfoInputs.cache
+c:\Users\albin.forsberg1\Documents\Programering\BashAMonster\Bash\obj\Debug\net6.0\Bash.AssemblyInfo.cs
+c:\Users\albin.forsberg1\Documents\Programering\BashAMonster\Bash\obj\Debug\net6.0\Bash.csproj.CoreCompileInputs.cache
+c:\Users\albin.forsberg1\Documents\Programering\BashAMonster\Bash\obj\Debug\net6.0\Bash.dll
+c:\Users\albin.forsberg1\Documents\Programering\BashAMonster\Bash\obj\Debug\net6.0\refint\Bash.dll
+c:\Users\albin.forsberg1\Documents\Programering\BashAMonster\Bash\obj\Debug\net6.0\Bash.pdb
+c:\Users\albin.forsberg1\Documents\Programering\BashAMonster\Bash\obj\Debug\net6.0\Bash.genruntimeconfig.cache
+c:\Users\albin.forsberg1\Documents\Programering\BashAMonster\Bash\obj\Debug\net6.0\ref\Bash.dll
