@@ -15,7 +15,5 @@ karaktär Dino = new karaktär(){
 
 
 
-int hp = 1000;
-
-hp -= ak47.damage;
+Dino.hitpoints -= ak47.damage;
 
